@@ -1,0 +1,15 @@
+.idea/
+venv/
+__pycache__/
+*.exe
+.env
+.env.*
+
+# Compiled binaries
+chat_server_new
+chat_server/chat_server
+
+# Runtime data
+data/
+memory.json
+chat_server/data
